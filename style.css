@@ -39,6 +39,7 @@
     #foto{
         padding: 10px;
         background-color: #e0fbfc;
+        border-radius: 30px;
     }
 
    ul li:nth-child(odd){
